@@ -1,12 +1,18 @@
-package com.produtos.apirest;
+package br.com.task;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Classe inicial
+ *
+ */
 @SpringBootApplication
-public class ApiRestApplication {
-
+public class TaskApplication 
+{
 	public static void main(String[] args) {
-		SpringApplication.run(ApiRestApplication.class, args);
+		// TODO Auto-generated method stub
+		SpringApplication.run(TaskApplication.class, args);
+
 	}
 }
