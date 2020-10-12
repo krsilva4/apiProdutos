@@ -1,4 +1,4 @@
-package com.produtos.apirest;
+package br.com.task.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
